@@ -1,0 +1,12 @@
+2018-11-18 13:54:49 - root - DEBUG - <module>
+2018-11-18 13:54:49 - root - DEBUG - connection_made
+2018-11-18 13:54:49 - root - DEBUG - connection_made
+2018-11-18 13:54:49 - root - DEBUG - connection_made
+2018-11-18 13:56:43 - root - DEBUG - <module>
+2018-11-18 13:56:43 - root - DEBUG - connection_made
+2018-11-18 13:56:43 - root - DEBUG - connection_made
+2018-11-18 13:56:43 - root - DEBUG - connection_made
+DEBUG MainProcess 2018-11-18 13:58:23:   <module>
+DEBUG SpawnPoolWorker-1 2018-11-18 13:58:23:   connection_made
+DEBUG SpawnPoolWorker-3 2018-11-18 13:58:23:   connection_made
+DEBUG SpawnPoolWorker-2 2018-11-18 13:58:23:   connection_made
