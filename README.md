@@ -33,3 +33,10 @@ TODO:
 1. The lib fastecdsa is faster using C, replace lib ecdsa-python in release.
 2. ECC can not resist quantum computing in the near future, plan to replace it with other algorithm.
 
+requirement
+---
+pip:
+1. base58
+2. concurrent_log_handler
+3. aiofiles
+4. aiosqlite
