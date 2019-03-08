@@ -1,6 +1,0 @@
-for pip:
-	base58
-	concurrent_log_handler
-	aiofiles
-	aiosqlite
-
